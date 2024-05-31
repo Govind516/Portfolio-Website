@@ -21,7 +21,7 @@ You can view the live demo of the portfolio [here](https://govindgupta.vercel.ap
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/Govind516/portfolio-website.git
 
 2. Navigate to the project directory:
    ```sh
