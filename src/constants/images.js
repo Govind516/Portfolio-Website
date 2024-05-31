@@ -1,5 +1,5 @@
-import logo from "../assets/logo.svg";
-import profile from "../assets/greg.jpeg";
+import logo from "../assets/Profile.png";
+import profile from "../assets/Profile.png";
 
 export default {
   logo,
