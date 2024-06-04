@@ -1,7 +1,7 @@
 import React from "react";
 import "./About.css";
 import Image from "../../assets/avatar-1.png";
-import Resume from "../../assets/resume.pdf";
+import Resume from "../../assets/Govind_Gupta_SDE.pdf";
 import SkillList from "./SkillList";
 import AboutBox from "../../components/about/AboutBox";
 
